@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Análise de Dados
 - 🌱 Estudando Typescript e NodeJS
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
 
 <div align="center">
   <a href="https://github.com/GabrielKLopes">
