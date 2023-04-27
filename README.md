@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel 
 
-- 🔭 Hoje trabalho com Análise de Dados
+- 🔭 Desenvolvedor FullStack
 - 🌱 Estudando Typescript e NodeJS
 - 😄 Pronome: ele/dele
 
