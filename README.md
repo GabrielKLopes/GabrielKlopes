@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor FullStack
 - 🌱 Estudando Typescript e NodeJS
-- 😄 Pronome: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/GabrielKLopes">
