@@ -1,7 +1,4 @@
-### Olá! Eu sou o Gabriel 
-
-- 🔭 Desenvolvedor FullStack
-- 🌱 Estudando Typescript e NodeJS
+### Olá! Sou o Gabriel, um desenvolvedor Full Stack Jr apaixonado por criar soluções inovadoras e escaláveis. Atualmente, estou trabalhando na Dixi como desenvolvedor Full Stack, usando Flutter e Java. Além disso, sou graduando em Engenharia de Software, buscando aprimorar minhas habilidades técnicas e conhecimentos em desenvolvimento web. Tenho experiência com JavaScript, TypeScript, Node.js, React e Express.js. Meu objetivo é colaborar em projetos desafiadores, trabalhando em equipe para impulsionar o sucesso e entregar produtos de alta qualidade.
 
 
 <div align="center">
