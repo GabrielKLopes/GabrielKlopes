@@ -1,4 +1,4 @@
- Olá! Sou o Gabriel, um desenvolvedor Full Stack Jr com experiência em Flutter, Java, JavaScript, TypeScript, Node.js, React e Express.js. Trabalho na Dixi como desenvolvedor full-stack e sou graduando em Engenharia de Software.
+ Olá! Sou o Gabriel, um desenvolvedor Full Stack Jr com experiência em Flutter, Java, JavaScript, TypeScript, Node.js, React e Express.js.
 
 
 <div align="center">
